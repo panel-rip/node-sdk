@@ -1,7 +1,7 @@
 import PANELRIP from './lib/src/index.js';
 
 const client = new PANELRIP({
-    key: "YOUR API KEY GENERATED FROM PANEL.RIP"
+    key: "YOUR_API_KEY_GENERATED_FROM_PANEL.RIP"
 })
 
 // get balance
