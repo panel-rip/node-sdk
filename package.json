@@ -1,0 +1,29 @@
+{
+  "name": "@panel-rip/node-sdk",
+  "version": "0.0.1",
+  "description": " Panel.Rip's public NodeJS SDK for developers and resellers. ",
+  "main": "lib/src/index.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/panel-rip/node-sdk.git"
+  },
+  "keywords": [
+    "panel-rip"
+  ],
+  "author": "HiiZun",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/panel-rip/node-sdk/issues"
+  },
+  "homepage": "https://github.com/panel-rip/node-sdk#readme",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
